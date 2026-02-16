@@ -1,6 +1,5 @@
 
 print("My Devops journey is getting stronger")
 
-print("My Devops journey starts now!")
-print("my first commit")
+
 
